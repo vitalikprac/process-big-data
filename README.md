@@ -33,5 +33,6 @@ $ python3 lab3.py
 ```
 
 Результати:
+
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/42850697/209470724-58f7577a-d0de-436c-a358-c4b5ee530f14.png">
 
